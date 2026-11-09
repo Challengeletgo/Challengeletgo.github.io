@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /slab-blind/admin
+Disallow: /slab-blind/slab-blind/admin.html
+
+Sitemap: https://challengeletgo.github.io/sitemap.xml
